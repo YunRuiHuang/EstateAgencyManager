@@ -1,0 +1,6 @@
+﻿House_id,City,Address,Total_Price,Size,Evaluation,User.User_ID,U_name,U_Gender,U_Phone,U_email,Manager.Manager_ID,M_name,M_Gender,M_Phone,M_Email,Salary
+2,城市2,XXXXX,150000,65,N/A,2,房东2,男,12345678902,2@163.com,1,经理,男,98765432101,a@163.com,1000
+4,城市4,XXXXX,250000,95,N/A,2,房东2,男,12345678902,2@163.com,2,经理2,男,98765432102,b@163.com,2000
+5,城市5,XXXXX,300000,110,N/A,4,房东4,女,12345678904,4@163.com,3,经理3,女,98765432103,c@163.com,3000
+6,城市6,XXXXX,350000,125,N/A,4,房东4,女,12345678904,4@163.com,3,经理3,女,98765432103,c@163.com,3000
+3,城市3,XXXXX,200000,80,N/A,5,房东5,女,12345678905,5@163.com,2,经理2,男,98765432102,b@163.com,2000
